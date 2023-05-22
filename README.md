@@ -11,7 +11,7 @@ This repository consists of the all the 10 days Challenge tutorials with neat ex
 Clone the project and Run
 
 ```bash
-  git clone https://github.com/ManyamSanjayKumarReddy/Java-Challenge-Telusko.git
+  https://github.com/ManyamSanjayKumarReddy/Product-Management-SpringBoot-and-Postgresql.git
 ```
 
 
